@@ -2,22 +2,16 @@
 # -*- coding: utf-8 -*-
 
 """
-SMBC China Monthly RSSフィード生成スクリプト（簡易版）
-日付抽出をスキップし、現在日時を公開日として使用
+SMBC China Monthly RSSフィード生成スクリプト
 """
 
-import os
 import re
 import logging
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin
-from feedgen.feed import FeedGenerator
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import requests
 from bs4 import BeautifulSoup
+from feedgen.feed import FeedGenerator
 
 # ログ設定
 logging.basicConfig(
@@ -32,53 +26,76 @@ PDF_BASE_URL = "https://www.smbc.co.jp"
 OUTPUT_RSS_FILE = "smbc_china_monthly.xml"
 TIMEZONE_JST = timezone(timedelta(hours=9))
 
-
-def setup_driver():
-    """Selenium WebDriverの設定"""
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    chrome_options.add_experimental_option('useAutomationExtension', False)
-    
-    driver = webdriver.Chrome(options=chrome_options)
-    driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
-    return driver
+# ヘッダー
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'ja,en-US;q=0.7,en;q=0.3',
+}
 
 
-def fetch_page_with_selenium(url):
-    """Seleniumを使用して動的コンテンツを含むページを取得"""
-    driver = None
+def fetch_page(url):
+    """Requestsを使用してページを取得"""
     try:
-        driver = setup_driver()
-        logger.info(f"ページを読み込み中: {url}")
-        driver.get(url)
-        
-        wait = WebDriverWait(driver, 30)
-        wait.until(EC.presence_of_element_located((By.TAG_NAME, "table")))
-        
-        driver.implicitly_wait(5)
-        html = driver.page_source
-        logger.info("ページの読み込みが完了しました")
+        logger.info(f"ページを取得中: {url}")
+        response = requests.get(url, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+        response.encoding = 'shift_jis'
+        html = response.text
+        logger.info(f"ページ取得完了: {len(html)} バイト")
         return html
-        
-    except Exception as e:
+    except requests.exceptions.RequestException as e:
         logger.error(f"ページ取得エラー: {e}")
         raise
-    finally:
-        if driver:
-            driver.quit()
+
+
+def extract_date_from_th(th_element):
+    """
+    th要素から日付を抽出する
+    例: th要素のテキストに "2026.8.18" が含まれている場合
+    """
+    # th要素内のテキストを取得（改行を含む）
+    text = th_element.get_text()
+    
+    # 改行で分割して各行をチェック
+    lines = text.split('\n')
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        
+        # 日付パターン: YYYY.M.D または YYYY.MM.DD
+        match = re.search(r'(\d{4})\.(\d{1,2})\.(\d{1,2})', line)
+        if match:
+            try:
+                year = int(match.group(1))
+                month = int(match.group(2))
+                day = int(match.group(3))
+                if 1 <= month <= 12 and 1 <= day <= 31:
+                    return datetime(year, month, day)
+            except ValueError:
+                continue
+    
+    # 直接テキストからも再試行（改行コードが混ざっている場合）
+    clean_text = re.sub(r'\s+', ' ', text.strip())
+    match = re.search(r'(\d{4})\.(\d{1,2})\.(\d{1,2})', clean_text)
+    if match:
+        try:
+            year = int(match.group(1))
+            month = int(match.group(2))
+            day = int(match.group(3))
+            if 1 <= month <= 12 and 1 <= day <= 31:
+                return datetime(year, month, day)
+        except ValueError:
+            pass
+    
+    return None
 
 
 def parse_china_monthly(html):
-    """HTMLからSMBC China Monthlyの記事一覧をパース（日付抽出スキップ）"""
+    """HTMLからSMBC China Monthlyの記事一覧をパース"""
     soup = BeautifulSoup(html, 'html.parser')
     items = []
-    now = datetime.now(TIMEZONE_JST)
     
     # メインのテーブルを探す
     tables = soup.find_all('table', class_='tableLiquid')
@@ -87,39 +104,40 @@ def parse_china_monthly(html):
         tbody = table.find('tbody')
         if not tbody:
             continue
-            
+        
         rows = tbody.find_all('tr')
         for row in rows:
-            item = parse_row(row, now)
+            item = parse_row(row)
             if item:
                 items.append(item)
     
-    # 項目数が多すぎる場合は制限
-    if len(items) > 50:
-        items = items[:50]
+    # 日付でソート（新しい順）
+    items.sort(key=lambda x: x['pub_date'], reverse=True)
     
     logger.info(f"{len(items)}件の記事を取得しました")
     return items
 
 
-def parse_row(row, default_date):
-    """1行のデータをパース（日付はスキップ）"""
+def parse_row(row):
+    """1行のデータをパース"""
     try:
         th = row.find('th', class_='tableTitle01')
         if not th:
             return None
+        
+        # 日付を抽出
+        pub_date = extract_date_from_th(th)
+        if not pub_date:
+            logger.debug(f"日付抽出失敗: {th.get_text()[:50]}")
+            return None
+        
+        pub_date = pub_date.replace(tzinfo=TIMEZONE_JST)
         
         # PDFリンクを抽出
         pdf_link = th.find('a', class_='glyphPdf01')
         pdf_url = None
         if pdf_link and pdf_link.get('href'):
             pdf_url = urljoin(PDF_BASE_URL, pdf_link.get('href'))
-        
-        # 日付情報を取得（表示用）
-        date_text = th.get_text(strip=True)
-        # 日付らしき文字列を抽出（表示用）
-        date_match = re.search(r'(\d{4}\.\d{1,2}\.\d{1,2})', date_text)
-        display_date = date_match.group(1) if date_match else "不明"
         
         # td要素からタイトルと説明を抽出
         td = row.find('td')
@@ -128,7 +146,11 @@ def parse_row(row, default_date):
         
         # タイトル
         title_span = td.find('span', class_='dBlock')
-        title = title_span.get_text(strip=True) if title_span else f"SMBC China Monthly ({display_date})"
+        if title_span:
+            title = title_span.get_text(strip=True)
+        else:
+            # タイトルがない場合は日付から作成
+            title = f"SMBC China Monthly ({pub_date.strftime('%Y年%m月')})"
         
         # 説明を構築
         description_parts = []
@@ -145,7 +167,6 @@ def parse_row(row, default_date):
                     content_text = content_dd.get_text(strip=True)
                     if content_text:
                         contents.append(content_text)
-                
                 if contents:
                     description_parts.append(f"{section_title}: {' / '.join(contents)}")
         
@@ -155,16 +176,15 @@ def parse_row(row, default_date):
         if pdf_url:
             guid = pdf_url
         else:
-            guid = f"smbc-china-monthly-{datetime.now().strftime('%Y%m%d%H%M%S')}"
+            guid = f"smbc-china-monthly-{pub_date.strftime('%Y%m%d')}"
         
         return {
             'title': title,
             'link': pdf_url if pdf_url else BASE_URL,
             'description': description,
-            'pub_date': default_date,  # 現在日時を使用
+            'pub_date': pub_date,
             'guid': guid,
             'pdf_url': pdf_url,
-            'display_date': display_date,  # 表示用の日付
         }
         
     except Exception as e:
@@ -183,7 +203,7 @@ def generate_rss(items, output_file):
     now = datetime.now(TIMEZONE_JST)
     fg.lastBuildDate(now)
     
-    for item in items:
+    for item in items[:50]:
         fe = fg.add_entry()
         fe.title(item['title'])
         fe.link(href=item['link'], rel='alternate')
@@ -191,7 +211,7 @@ def generate_rss(items, output_file):
         if item['description']:
             fe.description(item['description'])
         
-        # 公開日は現在日時を使用
+        # 実際の公開日を使用
         fe.pubDate(item['pub_date'])
         
         fe.guid(item['guid'], permalink=False)
@@ -208,9 +228,9 @@ def generate_rss(items, output_file):
 def main():
     """メイン関数"""
     try:
-        logger.info("SMBC China Monthly RSS生成を開始します（日付抽出スキップモード）")
+        logger.info("SMBC China Monthly RSS生成を開始します")
         
-        html = fetch_page_with_selenium(BASE_URL)
+        html = fetch_page(BASE_URL)
         items = parse_china_monthly(html)
         
         if not items:
@@ -220,6 +240,10 @@ def main():
         rss_file = generate_rss(items, OUTPUT_RSS_FILE)
         logger.info(f"処理が完了しました: {rss_file}")
         logger.info(f"取得した記事数: {len(items)}件")
+        
+        # 最初の数件の日付を表示（デバッグ用）
+        for i, item in enumerate(items[:5]):
+            logger.info(f"  {i+1}. {item['pub_date'].strftime('%Y-%m-%d')} - {item['title'][:30]}...")
         
     except Exception as e:
         logger.error(f"エラーが発生しました: {e}")
