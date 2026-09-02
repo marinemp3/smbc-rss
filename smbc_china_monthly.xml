@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SMBC China Monthly</title>
+    <link>https://www.smbc.co.jp/hojin/international/monthly.html</link>
+    <description>三井住友銀行の中国関連レポート China Monthly のRSSフィード</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 02 Sep 2026 14:08:11 +0900</lastBuildDate>
+    <item>
+      <title>SMBC China Monthly 第196号（2021年10月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202110_01.pdf</link>
+      <description>●経済トピックス①: 「共同富裕」を急ぐ習近平政権 / 日本総合研究所上席主任研究員 三浦 有史
+●経済トピックス②: 中国　足元で景気減速、高まる政策発動への期待 / 日本総合研究所主任研究員 佐野 淳也
+●経済トピックス③: 中国炭素排出権取引市場、正式に始動 / みらいコンサルティンググループ 深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 中国新税関企業信用管理弁法が11月1日より実施！AEO一般認証企業が廃止に / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 日系企業と非日系企業の中国における人材マネジメント課題の相違 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 上海市における外国籍者の社会保険加入と実務運用の変更〜上海市でも強制加入が求められる状況に〜 / 上海邁伊茲咨詢有限公司 マネジメントソリューション事業部事業部長 加藤正志株式会社マイツ 米国公認会計士 古谷 純子
+●法務レポート: 中国におけるセクハラ防止関連法制について / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士 顧 麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■台湾ドル　■香港ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202110_01.pdf</guid>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第197号（2021年11月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202111_01.pdf</link>
+      <description>●経済トピックス①: 電力不足が中国経済の足かせに / 日本総合研究所主任研究員 関 辰一
+●経済トピックス②: 中国 内需の低迷で景気減速が鮮明に / 日本総合研究所主任研究員 佐野 淳也
+●経済トピックス③: 北京が証券取引所を設立へ / みらいコンサルティンググループ 深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●経済トピックス④: 中国大型連休、新エネルギー車の困惑 / みらいコンサルティンググループ 深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 企業グループ加工貿易監督管理モデルが中国全国へ拡大 / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 第2回 コロナ禍における中国、APAC駐在員処遇調査 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 中国駐在員の個人所得税に直接的な影響ある重要規定〜改正「個人所得税法」の移行措置の終了／高度人材に対する還付政策〜 / 株式会社マイツ 米国公認会計士 古谷 純子
+●法務レポート: 中国における個人情報保護法 / 弁護士法人キャストグローバル 弁護士中小企業診断士 金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■台湾ドル　■香港ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202111_01.pdf</guid>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第198号（2021年12月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202112_01.pdf</link>
+      <description>●経済トピックス①: 中国景気は持ち直し、2022年の成長率は＋5.4％へ / 日本総合研究所主任研究員 関 辰一
+●経済トピックス②: 中国「双減政策」により、教育関連投資の大船は職業教育へ出航 / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 中国「税関登録登記企業信用ランク管理弁法」関連事項の通達と税関AEO高級認証企業新基準発表 / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 中国業界別求人動向（2021年7〜9月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 中国都市維持建設税等付加税制度の改定について / 株式会社マイツ 米国公認会計士 古谷 純子
+●税務レポート: 中国増値税にかかる先進的技術企業の還付政策および電子発票について / キャストグローバルコンサルティング（上海）有限公司税理士 永野弘子
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■台湾ドル　■香港ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202112_01.pdf</guid>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第199号（2022年1月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_01.pdf</link>
+      <description>●経済トピックス①: 中国　総じて景気減速が続くなか底打ちの兆しも / 日本総合研究所主任研究員 佐野 淳也
+●経済トピックス②: 中国の鉄鋼減産の要因と今後の見通し / 日本総合研究所主任研究員 関 辰一
+●経済トピックス③: 中国 インターネット利用者10億人突破 / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 中国 2022年1月1日より税関AEO高級認証企業は認定輸出者の申請が可能に / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 中国日系企業2021-2022年賃金改定・賞与支給に関する調査 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 中国個人所得税法改正の移行措置の期限到来に伴う年一回性賞与および外国籍者への免税措置の延長等について / 上海邁伊茲咨詢有限公司 マネジメントソリューション事業部事業部長 加藤正志BPO部長 胡鵑梅
+●法務レポート: 中国 安全生産研修の「形骸化」に対する特別取締活動 / 弁護士法人キャストグローバル弁護士・中小企業診断士 金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_01.pdf</guid>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第200号（2022年2月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_02.pdf</link>
+      <description>●経済トピックス①: 中国　ゼロコロナ政策が景気下押し、回復は春以降に / 日本総合研究所主任研究員 佐野 淳也
+●経済トピックス②: 中国　習近平政権はなぜ「共同富裕」を急ぐのか / 日本総合研究所上席主任研究員 三浦 有史
+●経済トピックス③: 2021年、中国水素エネルギー産業の現状 / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 中国税関よりRCEP協定における輸出入貨物の原産地管理弁法および協定実施に関連する公告が公布 / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 中国業界別求人動向（2021年10月〜12月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 中国　企業会計準則（新準則）適用企業は、2021年期財務報告より、新リース基準等に留意 / 株式会社マイツ米国公認会計士 古谷純子
+●法務レポート: 中国の新しい政策背景における、企業経営反独占コンプライアンス体制の構築 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧 麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_02.pdf</guid>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第201号（2022年3月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_03.pdf</link>
+      <description>●経済トピックス①: 中国　景気は引き続き減速傾向 / 日本総合研究所主任研究員 佐野 淳也
+●経済トピックス②: 長期化する中国のゼロコロナ政策 / 日本総合研究所主任研究員　関　辰一
+●経済トピックス③: 2020年、中国の出生率過去最低、出産願望は取り戻せるのか？ / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 商務部等6部門よりRCEP協定の実施に関する指導意見が公布 / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 中国各地区最低賃金（月給）基準状況 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 中国　ファイナンスリース会社非現場監督管理規程 / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_03.pdf</guid>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第202号（2022年4月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_04.pdf</link>
+      <description>●経済トピックス①: 中国　内需が持ち直すも先行きは楽観できず / 日本総合研究所主任研究員 佐野 淳也
+●経済トピックス②: 中国の住宅価格をどうみるか / 日本総合研究所上席主任研究員　三浦　有史
+●経済トピックス③: 2021年、中国独自開発ゲームの海外売上高は180億米ドル突破 / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 4月1日より中国の港湾料金がさらなる引下げ・調整を実施 / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 「中華人民共和国工会法」の修正がもたらす日系企業への影響 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 中国 市場主体登記管理条例が2022年3月1日に施行 / 株式会社マイツ米国公認会計士　古谷純子
+●法務レポート: 中国　競業避止義務判例にかかる考察 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_04.pdf</guid>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第203号（2022年5月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_05.pdf</link>
+      <description>●経済トピックス①: 低迷が続く2022年の中国経済 / 日本総合研究所主任研究員　関　辰一
+●経済トピックス②: 中国　価格統制で抑えられるインフレ / 日本総合研究所主任研究員　佐野　淳也
+●経済トピックス③: 成長を続ける中国ペット産業の方向性は？ / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 貨物輸送物流の円滑化に向けた中国の取組について / TJCCコンサルティング グループ副総経理 劉 航
+●人事・労務関連情報: 在中国日系企業の「現地化」の現状・課題に関する調査結果 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 中国全人代にて45兆円規模の減税政策を発表 / 株式会社マイツ米国公認会計士　古谷純子
+●法務レポート: 中国 《反不正競争法》に関する司法解釈と関連事例 / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_05.pdf</guid>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第204号（2022年6月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_06.pdf</link>
+      <description>●経済トピックス①: 中国経済は都市封鎖の打撃から回復の兆し / 日本総合研究所　調査部主任研究員　関　辰一
+●経済トピックス②: 中国　政府は景気対策を強化へ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス③: 中国 深センの外資実際利用額、第1四半期に急増、21億米ドル超え / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●税関関連情報: 中国 税関総署および華東地域税関による新型コロナウイルス感染対応措置 / TJCCコンサルティンググループ副総経理 劉 航
+●人事・労務関連情報: 中国業界別求人動向（2022年1〜3月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 中国全人代にて45兆円規模の減税政策を発表 / 株式会社マイツ米国公認会計士　古谷純子
+●法務レポート: 中国における電子署名の有効性について / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡　業超
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_06.pdf</guid>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第205号（2022年7月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_07.pdf</link>
+      <description>●経済トピックス①: 中国  最悪期を脱するも、2022年の成長率は政府目標未達へ / 日本総合研究所　調査部主任研究員　関　辰一
+●経済トピックス②: 定着するか？　中国の「キャンプブーム」 / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
+●中国規制関連情報: 個人情報越境処理活動認証技術規範（意見募集稿）の注目ポイント / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: リモートワーク時の人事労務課題 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 設備・器具取得に関する税務上の優遇政策について / 上海邁伊茲諮詢有限公司蘇州事業所日本国公認会計士　中西　潤
+●法務レポート: 正札価格表示および価格欺罔禁止にかかる規定 / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_07.pdf</guid>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第206号（2022年8月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_08.pdf</link>
+      <description>●経済トピックス①: 中国　景気は復調に向かうも、政府目標達成は困難 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国の資本流出懸念と金融緩和余地の縮小 / 日本総合研究所　調査部主任研究員　野木森　稔
+●税関関連情報: 税関へ規定違反行為を自主申告する際の取扱条件が緩和 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国人の就労意識調査 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 電子営業許可証について / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡　業超
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_08.pdf</guid>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第207号（2022年9月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_09.pdf</link>
+      <description>●経済トピックス①: 中国の地方政府が抱える債務、警戒ラインに / 日本総合研究所　調査部主任研究員　関　辰一
+●経済トピックス②: 中国　都市封鎖解除の好影響は一巡、回復の勢い弱まる / 日本総合研究所　調査部主任研究員　佐野　淳也
+●中国規制関連情報: 非コールドチェーン輸入物品に対しPCR検査を不実施に / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2022年4〜6月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 個人情報の中国国外への提供・移転について / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_09.pdf</guid>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第208号（2022年10月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_10.pdf</link>
+      <description>●経済トピックス①: 中国　活動規制を再度強化、景気回復ペースは鈍化へ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国の若年失業率の高止まりは何を意味するか / 日本総合研究所　調査部上席主任研究員　三浦　有史
+●税関関連情報: RCEPにおける原産地規則の革新について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国における駐在員の危機管理 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Executive Advisor 須藤洋介
+●税務レポート: 中国印紙税法が7月1日から施行〜日中双方で二重課税され得るケースも〜 / 株式会社マイツ米国公認会計士　古谷　純子上海邁伊茲咨詢有限公司広州事業所中国公認会計士　李 春民
+●法務レポート: 国家標準管理弁法の改正 / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　関 辰一
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_10.pdf</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第209号（2022年11月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_11.pdf</link>
+      <description>●経済トピックス①: 中国　景気回復ペースは緩慢 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 増加する中国の潜在不良債権 / 日本総合研究所　調査部主任研究員　関　辰一
+●税関関連情報: 10月より一部の電子電器製品がCCC認証の対象外に / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 在宅勤務期間中の無断欠勤 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director 本多　清志
+●法務レポート: 経営者審査標準の改正動向 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡　業超
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_11.pdf</guid>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第210号（2022年12月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_12.pdf</link>
+      <description>●経済トピックス①: 中国　景気回復ペースは緩慢に / 日本総合研究所　調査部主任研究員　野木森　稔
+●経済トピックス②: 拡大する若年層の「興趣消費」動向 / みらいコンサルティンググループ　深セン法人（唯来企業管理諮詢深セン有限公司）副総経理　姜　香花
+●税関関連情報: 税関によるAEO認証企業の認証基準更新 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2022年7〜9月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 製造業中小微型企業の税金費用の延期納付がさらに4ヵ月延長 / 上海邁伊茲諮詢有限公司蘇州事業所日本国公認会計士　可児　俊二郎
+●法務レポート: 《女性権益保障法》発布で強化されるセクハラ防止措置要求 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡　業超
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202201_12.pdf</guid>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第211号（2023年1月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_01.pdf</link>
+      <description>●経済トピックス①: 中国　ゼロコロナ政策の緩和で景気先行きに明るい兆し / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国政府は金融危機回避に軸足 / 日本総合研究所　調査部主任研究員　関　辰一
+●税関関連情報: 税関総署が2023年1月1日より2022年版の奨励外商投資産業目録を施行 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国人の就労意識調査 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director　井手寛暁
+●法務レポート: 《女性権益保障法》改正重要条項の解説 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_01.pdf</guid>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第212号（2023年2月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_02.pdf</link>
+      <description>●経済トピックス①: 中国　ゼロコロナ政策の撤廃で景気は底打ちへ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国の国家財政を揺るがす年金問題 / 日本総合研究所　調査部上席主任研究員　三浦　有史
+●税関関連情報: 新型コロナウイルス政策変更後の通関物流と政府による企業支援情報 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 社会保険未納付を理由とした労働者からの労働契約解除 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 日本国内グループ企業再編時の、中国税務の注意事例―“吸収合併”時に“持分譲渡”として課税されるリスク― / 株式会社マイツ米国公認会計士　古谷純子
+●法務レポート: 工業および情報化分野データ安全管理弁法（試行） / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_02.pdf</guid>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第213号（2023年3月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_03.pdf</link>
+      <description>●経済トピックス①: 中国　サービス消費を中心に景気は持ち直し / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 調整が長引く中国の不動産市場 / 日本総合研究所　調査部主任研究員　関　辰一
+●税関関連情報: 税関による行政処罰情報の分析および企業の注意点 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2022年10〜12月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director　井手寛暁
+●税務レポート: 中国税務当局による税務調査強化の動向 / 上海邁伊茲咨詢有限公司中国公認会計士　王洋
+●法務レポート: データ出境安全評価の成功事例から見るデータ評価の難易度考察 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_03.pdf</guid>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第214号（2023年4月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_04.pdf</link>
+      <description>●経済トピックス①: 中国　経済成長率目標は＋5.0％前後 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国の少子化対策は機能するか / 日本総合研究所　調査部上席主任研究員　三浦　有史
+●税関関連情報: リチウムイオン電池等のバッテリー製品に対するCCC認証の実施に関して / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国における育児・介護休暇の導入と企業対応−広東省を中心に− / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director　福田 忠之
+●税務レポート: 赴任・帰任時における個人所得税申告実務上の注意点 / 上海邁伊茲咨詢有限公司　マネジメントソリューション事業部事業部長　加藤　正志
+●法務レポート: 個人情報の国外への提供・移転のための標準契約 / 弁護士法人キャストグローバル弁護士・中小企業診断士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_04.pdf</guid>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第215号（2023年5月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_05.pdf</link>
+      <description>●経済トピックス①: 中国　景気は年明け後に急回復も持続力に懸念 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 厳しい局面が続く中国半導体産業 / 日本総合研究所　調査部主任研究員　野木森　稔
+●税関関連情報: 中国の貨物輸出入の新しい特徴とRCEPの影響 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: （世代別）中国人の就労意識調査の結果報告 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director：井手　寛暁
+●法務レポート: 判例から考察する 〜リストラを行う場合のコンプライアンス要点〜 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_05.pdf</guid>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第216号（2023年6月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_06.pdf</link>
+      <description>●経済トピックス①: 中国　消費回復は続くも、景気全体では回復ペースが鈍化 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 人民元国際化の動向：追い風を上回る逆風 / 日本総合研究所　調査部主任研究員　野木森　稔
+●税関関連情報: 保税修理業務について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2023年1〜3月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 強制執行と企業の存続・再起（能動的司法（執行）典型案例） / 弁護士法人キャストグローバル弁護士　　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_06.pdf</guid>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第217号（2023年7月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_07.pdf</link>
+      <description>●経済トピックス: 中国　ゼロコロナ政策解除後に急回復も、年後半は減速へ / 日本総合研究所　調査部主任研究員　野木森　稔
+●税関関連情報: 「客帯貨」(旅客による貨物携帯)業務について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 従業員が勤務地変更を拒否した場合、労働契約解除は合法か / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director：本多 清志
+●法務レポート: 「生成系人工知能サービス管理弁法（意見募集稿）」について / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡　業超
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_07.pdf</guid>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第218号（2023年8月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_08.pdf</link>
+      <description>●経済トピックス①: 中国　経済再開後の回復は息切れ、成長率が急減速 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国の政府債務は日本に次ぐ水準に / 日本総合研究所　調査部主席研究員　三浦　有史
+●税関関連情報: 税関への違反行為自主申告に対する扱いに関して意見募集稿が公布 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 労働関係訴訟に関わる指導性案例、典型案例について / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director　福田　忠之
+●税務レポート①: 中国リスク視覚化・全体俯瞰の効用 / 上海邁伊茲咨詢有限公司公認内部監査人(CIA)／内部統制評価指導士(CCSA)西尾卓哉
+●税務レポート②: 個人所得税の移行措置の期限到来等、中国税務の各種重要項目の現況と留意事項の解説〜中国日本商会“2023年白書”の税務関連項目から〜 / 株式会社マイツ米国公認会計士　古谷純子
+●マーケティングコラム: あの頃の中国ビジネス＆ライフ① / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_08.pdf</guid>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第219号（2023年9月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_09.pdf</link>
+      <description>●経済トピックス: 中国　景気急減速を受け政策対応 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 中国の輸出入禁止について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2023年4〜6月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●税務レポート: 年一回性賞与・外国籍者免税手当の優遇政策が再延長 / 上海邁伊茲咨詢有限公司マネージメントソリューション事業部　BPO部部長　胡　鵑梅
+●マーケティングコラム: あのころの中国ビジネス＆ライフ② / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_09.pdf</guid>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第220号（2023年10月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_10.pdf</link>
+      <description>●経済トピックス①: 中国　低迷する貿易取引 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国が圧倒的シェアを握る重要鉱物を巡る動き / 日本総合研究所　調査部主任研究員　野木森　稔
+●税関関連情報: 海南自由貿易港における免税品販売の最新状況について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 技術者の就労意識 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director 井手 寛暁
+●税務レポート: 日系企業の撤退手段として増えつつある有償減資〜減資（有償減資・無償減資）の解説〜 / 株式会社マイツ米国公認会計士　古谷 純子
+●法務レポート: 中国《会社法》改正を控えて第1次〜第3次改正草案（意見募集稿）の概観 / 弁護士法人キャストグローバル弁護士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_10.pdf</guid>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第221号（2023年11月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_11.pdf</link>
+      <description>●経済トピックス①: 中国　減速に歯止めがかかり足元の景気は小康状態 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: ミスマッチで増える中国の若年失業者 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 中国の“医療特区” ― 博鰲楽城国際医療観光先行区 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 従業員の未取得の福利年次休暇に対し、年休賃金報酬を支払うべきか / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司Director 本多 清志
+●マーケティングコラム: あのころの中国ビジネス＆ライフ③ / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_11.pdf</guid>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第222号（2023年12月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_12.pdf</link>
+      <description>●経済トピックス: 中国　成長ペースは鈍化へ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 加工貿易の継続的高品質発展に向けた改革措置〜第1弾が11月14日より施行〜 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2023年7〜9月） / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
+●法務レポート: 「データのクロスボーダー流動の規範化および促進にかかる規定（意見募集稿）」について / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202301_12.pdf</guid>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第223号（2024年1月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_01.pdf</link>
+      <description>●経済トピックス①: 中国　景気は引き続き減速 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中央経済工作会議から読み取る今後の中国景気 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: “封鎖運営”開始に向けて全面的準備を進める海南自由貿易港の現在 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 現場ワーカーの就労意識 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 井手 寛暁
+●法務レポート: 「民法典」契約編通則に関する司法解釈 / 弁護士法人キャストグローバル弁護士　　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_01.pdf</guid>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第224号（2024年2月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_02.pdf</link>
+      <description>●経済トピックス①: 中国　景気は昨年末にかけて再び減速 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国のデフォルト回避策が抱えるリスク / 日本総合研究所　調査部主席研究員　三浦　有史
+●税関関連情報: 中国が台湾とのECFAの一部商品の関税減免を中止したことを受けて / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 使用者の残業代支払義務 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director　本多清志
+●法務レポート: 中国《会社法》改正　2024年7月1日施行 / 弁護士法人キャストグローバル弁護士　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_02.pdf</guid>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第225号（2024年3月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_03.pdf</link>
+      <description>●経済トピックス①: 中国　強まるデフレマインド / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 債務が急増する中国の小規模・零細企業 / 日本総合研究所　調査部主任研究員　関　辰一
+●税関関連情報: 輸出入許可証管理貨物目録と両用品目/技術輸出入許可証管理目録の2024年版の公布 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2023年10〜12月） / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司
+●マーケティングコラム: あのころの中国ビジネス＆ライフ④ / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_03.pdf</guid>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第226号（2024年4月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_04.pdf</link>
+      <description>●経済トピックス①: 中国　景気は春以降再び低迷へ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 低調な個人消費が中国の経済成長の足かせに / 日本総合研究所　調査部主席研究員　三浦　有史
+●税関関連情報: 税関総署が加工貿易貨物の『在庫差異区間』管理に対する意見募集を実施 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 最高人民法院「労働争議案件の審理における法律適用問題に関する解釈(2)」の草案（意見募集稿）について / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 福田 忠之
+●法務レポート: 個人情報出境手続の除外範囲が明確化「データのクロスボーダー流動の促進および規範化にかかる規定」の要点解説 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_04.pdf</guid>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第227号（2024年5月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_05.pdf</link>
+      <description>●経済トピックス①: 中国 景気持ち直しは一時的、先行きは減速へ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 外資企業の誘致にかじを切る中国政府 / 日本総合研究所　調査部主任研究員 佐野 淳也
+●税関関連情報: 税関総署による高級認証企業への利便措置がさらに増加 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 在中国日系企業の人事分野における取組の潮流 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 井手 寛暁
+●マーケティングコラム: あのころの中国ビジネス＆ライフ⑤ / キャストグローバルコンサルティング（上海）有限公司董事 大亀 浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_05.pdf</guid>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第228号（2024年6月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_06.pdf</link>
+      <description>●経済トピックス①: 中国 持ち直した内需が再び減速へ / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 改善がみられる中国大企業の債務問題 / 日本総合研究所　調査部主任研究員 関　辰一
+●税関関連情報: 「海南自由貿易港多機能自由貿易口座業務管理弁法」が発表 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2024年1〜3月） / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司
+●マーケティングコラム: あのころの中国ビジネス＆ライフ⑥ / キャストグローバルコンサルティング（上海）有限公司董事 大亀 浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_06.pdf</guid>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第229号（2024年7月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_07.pdf</link>
+      <description>●経済トピックス: 中国　下振れリスクをはらんだ減速傾向が持続 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 関税法が可決 2024年12月1日より施行へ / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 賞与の支払 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 本多清志
+●法務レポート: 《反スパイ法》関連の行政手続・刑事手続に関する規定 / 弁護士法人キャストグローバル弁護士　　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_07.pdf</guid>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第230号（2024年8月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_08.pdf?version=240903</link>
+      <description>●経済トピックス①: 中国　4〜6月期の景気は減速 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 習近平政権は民間投資を回復させられるか / 日本総合研究所　調査部主席研究員　三浦　有史
+●税関関連情報: 税関が加工貿易帳冊の方式を１つに統合 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 最高人民法院および広東省各級人民法院が最新の労働争議典型案例を公表 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 福田 忠之
+●法務レポート: 新「会社法」の時間的効力に関する司法解釈 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡　業超
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_08.pdf?version=240903</guid>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第231号（2024年9月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_09.pdf</link>
+      <description>●経済トピックス①: 中国　景気は引き続き減速 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 力不足な中国の経済構造改革プラン / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 海外の保健食品、特殊医薬用途食品が海南楽城医療特区において輸入・使用可能に / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2024年4〜6月） / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司
+●マーケティングコラム: あのころの中国ビジネス＆ライフ⑦ / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_09.pdf</guid>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第232号（2024年10月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_10.pdf</link>
+      <description>●経済トピックス①: 中国　外需は好調ながら、内需は引き続き停滞 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国長期金利急落、発展途上の金融政策が一因 / 日本総合研究所　調査部主任研究員　野木森　稔
+●税関関連情報: 新会社法への対応状況についてアンケート調査結果 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 営業従事者の就労意識 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 井手寛暁
+●法務レポート: インターネット広告の識別可能性にかかる法律執行指針（「広告」であることの表示について） / 弁護士法人キャストグローバル弁護士　　金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_10.pdf</guid>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第233号（2024年11月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_11.pdf</link>
+      <description>●経済トピックス①: 中国 大型景気対策で目先は持ち直すも本格回復には遠く / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国大企業の債務状況改善と競争力向上 / 日本総合研究所　調査部主任研究員　関 辰一
+●税関関連情報: 国家税務局が企業の地域間移転に関わる税務手続を利便化 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 不正行為備品の窃盗 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 本多 清志
+●法務レポート: 法定定年退職年齢の延長に関する新規定がもたらす日本企業の新たな課題 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士 顧 麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_11.pdf</guid>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第234号（2024年12月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_12.pdf</link>
+      <description>●経済トピックス: 中国 2025年も景気低迷が続く見通し / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 中国内で外国資本による独資病院の設立を認める試行の展開について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2024年7〜9月） / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司
+●マーケティングコラム: あのころの中国ビジネス＆ライフ⑧ / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202401_12.pdf</guid>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第235号（2025年1月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_01.pdf</link>
+      <description>●経済トピックス①: 力強さを欠く中国景気 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●経済トピックス②: 中国自動車産業の海外展開にブレーキ / 日本総合研究所　調査部主任研究員　関　辰一
+●税関関連情報: 外資独資病院領域の拡大開放試行業務方案について / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国人就労意識から見る今後の福利厚生制度の検討 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Senior Consultant　野口　実里
+●法務レポート: 反マネーロンダリング法の改正 / 弁護士法人キャストグローバル弁護士　金藤　力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部(シンガポール駐在)エコノミスト　阿部　良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_01.pdf</guid>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第236号（2025年2月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_02.pdf</link>
+      <description>●経済トピックス①: 「新質生産力」は中国経済をけん引するか / 日本総合研究所　調査部主席研究員　三浦　有史
+●経済トピックス②: 中国　景気は一時的に持ち直しの動き / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 個人養老金制度が全国範囲で展開へ / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国における定年延長および女性従業員の定年年齢について / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director　福田 忠之
+●法務レポート: 2025年2月10日施行の「会社登記管理実施弁法」にかかる解説 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧　麗萍
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部(シンガポール駐在)エコノミスト　阿部　良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_02.pdf</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第237号（2025年3月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_03.pdf</link>
+      <description>●経済トピックス①: 世界で強まる中国系越境ECへの警戒感 / 日本総合研究所　調査部研究員　呉 子婧
+●経済トピックス②: 中国　再び減速感が強まる中国景気 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●税関関連情報: 米国追加関税に対する中国の対抗措置 / TJCCコンサルティンググループ副総経理　劉　航
+●人事・労務関連情報: 中国業界別求人動向（2024年10〜12月） / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司
+●マーケティングコラム: あのころの中国ビジネス＆ライフ⑨ / キャストグローバルコンサルティング（上海）有限公司董事　大亀 浩介
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野　淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部(シンガポール駐在)エコノミスト　阿部　良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_03.pdf</guid>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第238号（2025年4・5月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_04.pdf</link>
+      <description>●経済トピックス①: 中国の政府補助金と企業の成長の関係性 / 日本総合研究所　調査部主任研究員　関 辰一
+●経済トピックス②: 中国 持続力に乏しい景気回復 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●税関関連情報: 「個人所得税総合所得確定申告管理弁法」の公布 / TJCCコンサルティンググループ副総経理　劉 航
+●人事・労務関連情報: APAC諸国との比較から見る中国における優秀人材の獲得・確保 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司 / Director　井手 寛暁
+●法務レポート: 人工知能（AI）生成合成コンテンツ標識弁法 / 弁護士法人キャストグローバル弁護士 金藤 力
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部(シンガポール駐在)エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_04.pdf</guid>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第239号（2025年6・7月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_06.pdf</link>
+      <description>●経済トピックス①: 消費拡大策を本格化させる中国 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●経済トピックス②: 中国 米中関税合意により、景気の大幅悪化は回避 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●税関関連情報: 「中小企業への支払保障条例」が6月1日より施行へ / TJCCコンサルティンググループ副総経理　劉 航
+●人事・労務関連情報: 出張移動時間の賃金取扱 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司 / Director　本多 清志
+●法務レポート: 「『反外国制裁法』の実施にかかる規定」の公布・施行に関連して / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　徐 暁青
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部(シンガポール駐在)エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_06.pdf</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第241号（2025年10・11月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_10.pdf?version=251125</link>
+      <description>●経済トピックス①: 戦略的に配分される中国の政府補助金 / 日本総合研究所　調査部主任研究員　関 辰一
+●経済トピックス②: 中国　景気は足元で減速傾向 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●税関関連情報: 海南自由貿易港の「封関運営」に向けて加工付加価値に対する免税政策が新公布 / TJCCコンサルティンググループ副総経理　劉 航
+●法務レポート: 労働紛争事件に関する司法解釈（二） / 弁護士法人キャストグローバル弁護士　　金藤 力
+●人事・労務関連情報: 2025年9月1日施行「労働争議案件の審理における法律適用問題に関する解釈（二）」ポイント解説 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 福田 忠之
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部副主任研究員　室元 翔太
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　アジア・大洋州トレジャリー部(シンガポール駐在)エコノミスト　阿部 良太</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_10.pdf?version=251125</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第242号（2025年12月・2026年1月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_12.pdf</link>
+      <description>●経済トピックス: 中国　2026年の成長率は＋4％台前半に低下 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●税関関連情報: 国家外貨管理局よりクロスボーダー投資・融資改革を進める複数の利便措置が発表 / TJCCコンサルティンググループ副総経理　劉 航
+●法務レポート: 新「反不正競争法」における商業賄賂規定の改正 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　胡 業超
+●人事・労務関連情報: 中国におけるAIの職場活用 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 井手 寛暁
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部副主任研究員　室元 翔太
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■台湾ドル / 三井住友銀行　市場営業統括部シニア・エコノミスト　大野 悠治</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202501_12.pdf</guid>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第243号（2026年2月・3月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_03.pdf</link>
+      <description>●経済トピックス①: 中国の2026年経済運営方針 / 日本総合研究所　調査部主任研究員　佐野 淳也
+●経済トピックス②: 中国　景気は減速傾向続く / 日本総合研究所　調査部主任研究員　佐野 淳也
+●税関関連情報: 税関の新しい信用管理弁法とAEO認証基準が2026年4月1日より施行へ / TJCCコンサルティンググループ副総経理　劉 航
+●マーケティングコラム: 2025年中国消費トレンド番付が映す市場構造の転換 / キャストグローバルコンサルティング（上海）有限公司董事　大亀 浩介
+●人事・労務関連情報: 就業規則における民主的プロセスの重要性と従業員に対する強制力について / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 本多 清志
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部副主任研究員　室元 翔太
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■新台湾ドル / 三井住友銀行　市場営業統括部シニア・エコノミスト　大野 悠治</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_03.pdf</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第244号（2026年4月・5月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_04.pdf</link>
+      <description>●経済トピックス①: 日中関係の悪化と供給網再編への示唆 / 日本総合研究所　調査部上席主任研究員　野木森 稔
+●経済トピックス②: 中国　景気の停滞感続く / 日本総合研究所　調査部主任研究員　佐野 淳也
+●税関関連情報: 中国現地法人からのロイヤリティー送金におけるリスクと対応 / TJCCコンサルティンググループ副総経理　劉 航
+●法務レポート: 両用品目に関する中国から日本への輸出規制の強化 / 弁護士法人キャストグローバル弁護士　金藤 力
+●人事・労務関連情報: 「『労災保険条例』の実施に関する若干問題への意見 （三）」の解説 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Senior Consultant　野口 実里
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部副主任研究員　室元 翔太
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■新台湾ドル / 三井住友銀行　市場営業統括部シニア・エコノミスト　大野 悠治</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_04.pdf</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第245号（2026年6月・7月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_06.pdf</link>
+      <description>●経済トピックス: 拡大する中国の研究開発投資 / 日本総合研究所　調査部主任研究員　関 辰一
+●税関関連情報: 中国商務部よりアメリカによる中国企業への制裁措置に対する禁止令が公布 / TJCCコンサルティンググループ副総経理　劉 航
+●法務レポート: 定年退職年齢に達した従業員が養老金受給資格を満たしていない場合の労働契約終了の可否 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　李 淑芹
+●人事・労務関連情報: 中国における競業避止義務をめぐる最近の動向――「競業避止実施コンプライアンス指針」を中心に―― / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 福田 忠之
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部古宮 大夢
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■新台湾ドル / 三井住友銀行　市場営業統括部張 博涵</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_06.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第246号（2026年8月・9月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_08.pdf</link>
+      <description>●経済トピックス: 米関税政策の焦点は“Made by China”へ移行 / 日本総合研究所　調査部主席研究員　三浦 有史
+●税関関連情報: 新しいAEO認証制度開始で中小企業の「認証企業」取得が追い風に / TJCCコンサルティンググループ副総経理　劉 航
+●マーケティングコラム: 「飼う」から「家族」へ　感情価値が牽引する中国ペット経済 / キャストグローバルコンサルティング（上海）有限公司董事　大亀　浩介
+●人事・労務関連情報: 高齢労働者の基本的権利の保障に関する暫定規定 / PERSOLKELLY China Co., Ltd.　英創人材服務（上海）有限公司Director 井手 寛暁
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部古宮 大夢
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■新台湾ドル / 三井住友銀行　市場営業統括部エコノミスト　張 博涵</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_08.pdf</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
