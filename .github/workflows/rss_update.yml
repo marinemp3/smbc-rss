@@ -9,7 +9,7 @@ on:
 # 権限を明示的に設定
 permissions:
   contents: write
-  actions: write
+  actions: write  # keepalive アクションが GitHub API を利用するために必要
 
 jobs:
   generate-rss:
@@ -23,6 +23,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           # プッシュ用に設定
           persist-credentials: true
+          # rebase を安全に行うため全履歴を取得
+          fetch-depth: 0
       
       - name: Pythonをセットアップ
         uses: actions/setup-python@v5
@@ -51,3 +53,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
           force: false
+      
+      # 60日間の無効化対策（keepalive）
+      - name: Keepalive（ワークフロー無効化防止）
+        if: always()
+        uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
+        with:
+          COMMIT_MESSAGE: "Keepalive: ワークフロー無効化防止"
+          TIME_ELAPSED_THRESHOLD_IN_DAYS: 50
