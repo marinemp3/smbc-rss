@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:59:02 +0900</lastBuildDate>
-    <item>
-      <title>SMBC China Monthly 第196号（2021年10月）</title>
-      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202110_01.pdf</link>
-      <description>●経済トピックス①: 「共同富裕」を急ぐ習近平政権 / 日本総合研究所上席主任研究員 三浦 有史
-●経済トピックス②: 中国　足元で景気減速、高まる政策発動への期待 / 日本総合研究所主任研究員 佐野 淳也
-●経済トピックス③: 中国炭素排出権取引市場、正式に始動 / みらいコンサルティンググループ 深セン法人（唯来企業管理諮詢深セン有限公司）副総経理 姜 香花
-●税関関連情報: 中国新税関企業信用管理弁法が11月1日より実施！AEO一般認証企業が廃止に / TJCCコンサルティング グループ副総経理 劉 航
-●人事・労務関連情報: 日系企業と非日系企業の中国における人材マネジメント課題の相違 / PERSOLKELLY China Co., Ltd.英創人材服務（上海）有限公司
-●税務レポート: 上海市における外国籍者の社会保険加入と実務運用の変更〜上海市でも強制加入が求められる状況に〜 / 上海邁伊茲咨詢有限公司 マネジメントソリューション事業部事業部長 加藤正志株式会社マイツ 米国公認会計士 古谷 純子
-●法務レポート: 中国におけるセクハラ防止関連法制について / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士 顧 麗萍
-●マクロ経済レポート: 中国経済展望 / 日本総合研究所 調査部主任研究員 関 辰一
-●為替情報　通貨見通し: ■中国人民元　■台湾ドル　■香港ドル / 三井住友銀行　アジア・大洋州トレジャリー部（シンガポール駐在）エコノミスト　阿部 良太</description>
-      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202110_01.pdf</guid>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 19:39:35 +0900</lastBuildDate>
     <item>
       <title>SMBC China Monthly 第197号（2021年11月）</title>
       <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202111_01.pdf</link>
@@ -676,6 +661,18 @@
 ●為替情報　通貨見通し: ■中国人民元　■香港ドル　■新台湾ドル / 三井住友銀行　市場営業統括部エコノミスト　張 博涵</description>
       <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_08.pdf</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMBC China Monthly 第247号（2026年10月・11月）</title>
+      <link>https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_10.pdf</link>
+      <description>●経済トピックス: 中国の成長分野における赤字企業の増加 / 日本総合研究所　調査部主任研究員　関 辰一
+●税関関連情報: 「中華人民共和国生態環境法典」の施行が企業に与える影響に関して / TJCCコンサルティンググループ副総経理　劉 航
+●法務レポート: 「出入境管理に関する国務院の規定」に関するコンプライアンス上の解説とリスク提示 / キャストグローバルコンサルティング（上海）有限公司法務顧問・中国弁護士　顧 麗萍
+●人事・労務関連情報: 業績評価が不合格の従業員を解雇できるか―中国における業務不適任を理由とした労働契約解除の留意点― / PERSOLYC China Co., Ltd. 英創人材服務（上海）有限公司Director 本多 清志
+●マクロ経済レポート: 中国経済展望 / 日本総合研究所　調査部古宮 大夢
+●為替情報　通貨見通し: ■中国人民元　■香港ドル　■新台湾ドル / 三井住友銀行　市場営業統括部エコノミスト　張 博涵</description>
+      <guid isPermaLink="false">https://www.smbc.co.jp/hojin/international/resources/pdf/CM202601_10.pdf</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
